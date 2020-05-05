@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Sahalie's GitHub User Page
 
-You can use the [editor on GitHub](https://github.com/sahaliea/sahaliea.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I took CIT 281:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Things I learned about
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sahaliea/sahaliea.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Project 1](https://uo-cit.github.io.project-1-sahaliea)
+    Basic Unix Shell commands
+    Install and Configure Git using the Unix Shell
+    Basic Git Commands (add, commit, push, clone)
+    Github overview
+    Markdown language for README files
+    JavaScript ES6+ features
+    forEach method
+- [Project 2](https://uo-cit.github.io.project-2-sahaliea)
+    A web API or Application Programming Interface is an API accessed using the HTTP protocol.
+    Web APIs often deliver data formatted as JSON.
+    A web API can be accessed programmatically using JavaScript.
+    The API documentation must ﬁrst be consulted in order to understand how the API works and what it returns.
+    Some web APIs are public, and others require an access key. Flickr oﬀers several public APIs.
+- [Project 3](https://uo-cit.github.io.project-3-sahaliea)
